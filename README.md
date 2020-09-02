@@ -31,3 +31,20 @@ class LazyComponentModule {}
 ```
 
 `Note that, this module is not exported. As this is self consumed. For now this is the hack to be used. Hopefully Ivy team resolves this issue soon.`
+
+
+
+### Some Action
+
+`Initial State`
+
+![Initial State](https://github.com/nbaua/NgLazyLoadedComponent/blob/master/screenshots/ss-1.png) 
+
+`Lazy Loaded Component 1`
+
+![Lazy Loaded Component 1](https://github.com/nbaua/NgLazyLoadedComponent/blob/master/screenshots/ss-2.png) 
+
+`Lazy Loaded Component 2`
+
+![Lazy Loaded Component 2](https://github.com/nbaua/NgLazyLoadedComponent/blob/master/screenshots/ss-3.png) 
+
